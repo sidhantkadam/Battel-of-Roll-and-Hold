@@ -1,4 +1,4 @@
-**🎲 Battle of Roll and Hold : **
+## 🎲 Battle of Roll and Hold :
 A fun and fast‑paced two‑player dice game where **luck meets strategy**. 
 Players take turns rolling the dice to build their score, but must decide wisely when to **hold** — one wrong roll can reset their progress. 
 The first to reach the winning score claims victory in this exciting head‑to‑head challenge.
